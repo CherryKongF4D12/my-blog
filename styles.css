@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:lightgrey;
+}
+h1 {
+	color:darkslateblue;
+	text-align: center
+}
+p {color:mediumpurple;
+	text-align:right
+}
