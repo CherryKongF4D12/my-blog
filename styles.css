@@ -1,12 +1,28 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-	background-color:lightgrey;
+	  background-color:lightgrey;
 }
 h1 {
 	color:darkslateblue;
 	text-align: center
 }
-p {color:mediumpurple;
-	text-align:right
+p {
+	color:mediumpurple;
+	text-align:left
 }
+a {
+	text-decoration: none
+}
+p {
+	line-height: 5;
+}
+p {font-family:Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif'
+}
+
+#first {color:blue}
+
+.blue {color: green
+}
+
+.red {color:darkblue }
